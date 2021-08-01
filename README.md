@@ -34,11 +34,17 @@ approach, or both? \
 
 Both Deep learning and traditional machine learning approaches are explored here.
 
-**4. What will be your final deliverable? This is typically an application deployed as a web**
+**4. EVALUATION
+* Traditional ML model (LightGBM) with 11 NLP metrics where see below, model f1 score being 0.15 higher than random prediction 0.03.
+![lightGBM](https://user-images.githubusercontent.com/57920705/127776696-cb59db2d-c2e8-437e-8617-01cc1b04c287.JPG)
+* a predition sample is shown
+![test2](https://user-images.githubusercontent.com/57920705/127776595-f79a021d-a071-47ed-823f-39257d60b5ad.JPG)
+
+**5. What will be your final deliverable? This is typically an application deployed as a web**
 service with an API or (for extra credit) a web/mobile app.
 
 deployed with an API.
 
-**5. What computational resources would you need at a minimum to do this project?**
+**6. What computational resources would you need at a minimum to do this project?**
 
 CPU for traditional ML approach and GPU for deep learning approach
