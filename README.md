@@ -36,7 +36,8 @@ Both Deep learning and traditional machine learning approaches are explored here
 
 **4. EVALUATION
 * **Traditional ML model (LightGBM)** with 11 NLP metrics where see below, model f1 score being 0.15 higher than random prediction 0.03.
-![lightGBM](https://user-images.githubusercontent.com/57920705/127776696-cb59db2d-c2e8-437e-8617-01cc1b04c287.JPG)
+![LightGBM](https://user-images.githubusercontent.com/57920705/127785923-fad4e1f6-9b77-4089-9b85-4d177dd6f3d3.JPG)
+
 * a predition sample is shown
 ![test2](https://user-images.githubusercontent.com/57920705/127776595-f79a021d-a071-47ed-823f-39257d60b5ad.JPG)
 
